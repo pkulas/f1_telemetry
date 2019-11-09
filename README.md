@@ -1,6 +1,6 @@
 Dart library for fetching telemetry data from F1 2019 game.
 
-[license](https://github.com/pkulas/f1_telemetry/LICENSE).
+[license](https://github.com/pkulas/f1_telemetry/blob/master/LICENSE).
 
 ## Usage
 
